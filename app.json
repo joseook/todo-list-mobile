@@ -19,6 +19,7 @@
       "bundleIdentifier": "com.joseok.todolist"
     },
     "android": {
+      "buildType": "apk",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"

@@ -1,7 +1,7 @@
 // App.js
 
 import React, { useState, useEffect } from 'react';
-import { StyleSheet, Text, View, TextInput, TouchableOpacity, ScrollView, Modal } from 'react-native';
+import { StyleSheet, Text, View, TextInput, TouchableOpacity, ScrollView, Modal, StatusBar } from 'react-native';
 import { Picker } from '@react-native-picker/picker'; 
 import { Ionicons } from '@expo/vector-icons'; 
 import Task from './components/Task';
@@ -149,6 +149,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
+    StatusBar: "hidden"
   },
   header: {
     flexDirection: 'row',
