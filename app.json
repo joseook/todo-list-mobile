@@ -19,21 +19,25 @@
       "bundleIdentifier": "com.joseok.todolist"
     },
     "android": {
-      "buildType": "apk",
+      "buildType": "apk", 
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      
       "package": "com.joseok.todolist"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./icoon.png"
     },
     "extra": {
       "eas": {
         "projectId": "c304c002-14ac-4132-afe1-02a48fa30d02"
       }
+    }
+  },
+  "build": {
+    "android": {
+      "buildType": "apk" 
     }
   }
 }
