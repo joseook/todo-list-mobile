@@ -1,4 +1,3 @@
-Sure! Here's how you can create a new `Readme.md` for your project with a more professional tone:
 
 ---
 
@@ -35,5 +34,9 @@ Contributions are welcome! Feel free to open issues or pull requests with improv
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Installation
+
+You can download the APK file for this application from the [Releases](https://github.com/joseook/todo-list-mobile/releases) section of this repository. Install it on your Android device to test and use the application.
 
 ---
